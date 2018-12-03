@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Marty\'s Weather App</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_navDrawer">Open navigation drawer</string>
+    <string name="close_navDrawer">Close navigation drawer</string>
+    <string name="loading">Loading...</string>
+    <string name="default_temp">00°C</string>
+    <string name="default_cityName">City Name</string>
+    <string name="header_title">Marty\'s Weather App</string>
+    <string name="header_descr">Using the OpenWeatherMap API</string>
+    <string name="add_city">Add City</string>
+    <string name="about">About</string>
+    <string name="d_couldnotbeattached">Dialog view could not be attached</string>
+    <string name="dialog_title">Add a new city</string>
+    <string name="error_fieldempty">This field must not be empty</string>
+    <string name="api_key">99299ed030d299a0c8da7dc1c674f2d9</string>
+    <string name="metric">metric</string>
+    <string name="dev_credits">Created by: Martin Toney</string>
+    <string name="tut_title">Add a City</string>
+</resources>
